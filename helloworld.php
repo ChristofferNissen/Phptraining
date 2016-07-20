@@ -7,8 +7,22 @@
     </head>
 
     <body>
-    	<?php echo "Hello World!"; ?>
-   
+    <!-- This is an html comment -->
+    	<?php
+    	 // single-line comment are like this 
+    	#or like this, but less common
+
+    	/* Double line comments are written like this,
+    	so that you can keep typing
+    	and typing 
+    	*/
+
+    	?>
+
+    	<?php echo "Hello World!"; ?><br />
+   		<?php echo "Hello" . " World!"; ?><br />
+   		<?php echo 2 + 3; ?>
+
     </body>
 
 </html>
