@@ -12,7 +12,7 @@
     	 // single-line comment are like this 
     	#or like this, but less common
 
-    	/* Double line comments are written like this,
+    	/* double line comments are written like this,
     	so that you can keep typing
     	and typing 
     	*/
